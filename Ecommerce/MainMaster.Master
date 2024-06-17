@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainMaster.master.cs" Inherits="Ecommerce.MainMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <!-- קידוד להכל - חובה -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- מתאים את הגודל של המסך לכל הגדלים (פלאפונים ,טלויזיות, מחשבים וכדומה) חובה -->
+    <title>MainMasterPage</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.rtl.min.css" />
+    <!-- CSS הוספה חיבור לספריית -->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <!-- Bootstrap -->
+ <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+     <li class="nav-item" role="presentation">
+         <a class="nav-link active" href="/Default.aspx" id="pills-home-tab" role="tab" aria-controls="pills-home" aria-selected="true">Default</a>
+     </li>
+     <li class="nav-item" role="presentation">
+         <a class="nav-link" href="/CheckOut.aspx" id="pills-profile-tab" role="tab" aria-controls="pills-profile" aria-selected="false">CheckOut</a>
+     </li>
+     <li class="nav-item" role="presentation">
+         <a class="nav-link" href="/ProductsList.aspx" id="pills-contact-tab" role="tab" aria-controls="pills-contact" aria-selected="false">ProductsList</a>
+     </li>
+ </ul>
+ <div class="tab-content" id="pills-tabContent">
+     <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">...</div>
+     <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">...</div>
+     <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">...</div>
+ </div>
+    <!-- Bootstrap and -->
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="MainCnt" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <script src="js/bootstrap.min.js"></script> <!-- js חיבור לספריית> -->
+    
+            <asp:ContentPlaceHolder ID="FooterCnt" runat="server">
+            </asp:ContentPlaceHolder>
+</body>
+</html>

@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|c:\\visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\visual_studio_asp.net\\homework\\homework_7\\ecommerce\\ecommerce\\usercontrol\\produlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\usercontrol\\produlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|c:\\visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\visual_studio_asp.net\\homework\\homework_7\\ecommerce\\ecommerce\\usercontrol\\produlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\usercontrol\\produlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\prodaddedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\prodaddedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\bll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\bll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|c:\\visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\visual_studio_asp.net\\homework\\homework_7\\ecommerce\\ecommerce\\adminmanage\\prodaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\prodaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\productslist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\productslist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\productslist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\productslist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\prodaddedit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\prodaddedit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\bll\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\bll\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\categorylist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\categorylist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\dal\\clientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\dal\\clientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\citylist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\citylist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\prod.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\prod.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\panels-wells.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\panels-wells.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\clientlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\clientlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\backadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\backadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\app_code\\globfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\app_code\\globfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommerce\\adminmanage\\backadmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE4A8E3-3FF4-478D-B248-B5FF9875B2D4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\adminmanage\\backadmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEA49D2-0B8B-4547-AF10-07A211222F44}|EcommWebApi\\EcommWebApi.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEA49D2-0B8B-4547-AF10-07A211222F44}|EcommWebApi\\EcommWebApi.csproj|solutionrelative:ecommwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEA49D2-0B8B-4547-AF10-07A211222F44}|EcommWebApi\\EcommWebApi.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\ecommwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEA49D2-0B8B-4547-AF10-07A211222F44}|EcommWebApi\\EcommWebApi.csproj|solutionrelative:ecommwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProduList.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\UserControl\\ProduList.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\UserControl\\ProduList.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\UserControl\\ProduList.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\UserControl\\ProduList.aspx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:44:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProduList.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\UserControl\\ProduList.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\UserControl\\ProduList.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\UserControl\\ProduList.aspx",
+              "RelativeToolTip": "Ecommerce\\UserControl\\ProduList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T06:43:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdAddEdit.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProdAddEdit.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\ProdAddEdit.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProdAddEdit.aspx",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\ProdAddEdit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-15T21:31:12.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdAddEdit.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProdAddEdit.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\ProdAddEdit.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProdAddEdit.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\ProdAddEdit.aspx.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwE0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:34:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\BLL\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\BLL\\Product.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\BLL\\Product.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\BLL\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:42:11.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsList.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProductsList.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\ProductsList.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProductsList.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\ProductsList.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:10:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DAL\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\DAL\\ProductDAL.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DAL\\ProductDAL.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\DAL\\ProductDAL.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:41:58.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdAddEdit.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProdAddEdit.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\ProdAddEdit.aspx.designer.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProdAddEdit.aspx.designer.cs",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\ProdAddEdit.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:25:53.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\DbContext.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DbContext.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\DbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:45:49.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityList.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\CityList.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\CityList.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\CityList.aspx",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\CityList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T05:56:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tables.html",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\tables.html",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\tables.html",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\tables.html",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\tables.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T05:56:08.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Web.config",
+              "RelativeDocumentMoniker": "Ecommerce\\Web.config",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Web.config",
+              "RelativeToolTip": "Ecommerce\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-17T05:13:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientDAL.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DAL\\ClientDAL.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\DAL\\ClientDAL.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DAL\\ClientDAL.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\DAL\\ClientDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:56:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\BLL\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\BLL\\Category.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\BLL\\Category.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\BLL\\Category.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:56:08.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Global.asax.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Global.asax.cs",
+              "RelativeToolTip": "Ecommerce\\Global.asax.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:30:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsList.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProductsList.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\ProductsList.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ProductsList.aspx",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\ProductsList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T03:53:57.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryList.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\CategoryList.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\CategoryList.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\CategoryList.aspx",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\CategoryList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T05:56:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Login.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Login.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\Login.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:18:00.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Login.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Login.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Login.aspx",
+              "RelativeToolTip": "Ecommerce\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T04:04:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "panels-wells.html",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\panels-wells.html",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\panels-wells.html",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\panels-wells.html",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\panels-wells.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T03:56:16.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDAL.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DAL\\CategoryDAL.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\DAL\\CategoryDAL.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\DAL\\CategoryDAL.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\DAL\\CategoryDAL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:56:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientList.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ClientList.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\ClientList.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\ClientList.aspx",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\ClientList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T03:56:14.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Prod.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Prod.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Prod.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Prod.aspx",
+              "RelativeToolTip": "Ecommerce\\Prod.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T04:22:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Home.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Home.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Home.aspx",
+              "RelativeToolTip": "Ecommerce\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T03:56:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Logout.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Logout.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\Logout.aspx",
+              "RelativeToolTip": "Ecommerce\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T03:56:06.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckOut.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\CheckOut.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\CheckOut.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\CheckOut.aspx",
+              "RelativeToolTip": "Ecommerce\\CheckOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T04:32:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\EcommWebApi\\controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommWebApi\\controllers\\ProductController.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\EcommWebApi\\controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommWebApi\\controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:52:58.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\EcommWebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "EcommWebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\EcommWebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "EcommWebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:52:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BackAdmin.Master",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\BackAdmin.Master",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\BackAdmin.Master",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\BackAdmin.Master",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\BackAdmin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-15T21:48:07.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BackAdmin.Master.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\BackAdmin.Master.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminManage\\BackAdmin.Master.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\AdminManage\\BackAdmin.Master.cs",
+              "RelativeToolTip": "Ecommerce\\AdminManage\\BackAdmin.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:37:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GlobFunc.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\GlobFunc.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\App_Code\\GlobFunc.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\Homework\\Homework_7\\Ecommerce\\Ecommerce\\App_Code\\GlobFunc.cs",
+              "RelativeToolTip": "Ecommerce\\App_Code\\GlobFunc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:04:00.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
